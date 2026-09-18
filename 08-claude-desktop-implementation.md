@@ -44,8 +44,10 @@ Version-control your canonical copies (the `.md` files in this kit) somewhere sh
 
 ## What I'd fix before rollout
 
-1. **Write a real `relationship.md` per team** before sharing — it's the layer that stops the persona from talking to an accountant like a junior dev.
-2. **Calibrate `voice-examples.md` with your team's actual phrasing.** Examples are the highest-leverage part of these prompts; Claude copies them more faithfully than it obeys abstract rules.
+1. **Write a real `relationship.md` before sharing** — it's the layer that stops the persona from talking to an accountant like a junior dev.
+2. **Calibrate `voice-examples.md` with real phrasing from the people who'll talk to it.** Examples are the highest-leverage part of these prompts; Claude copies them more faithfully than it obeys abstract rules.
 3. **Don't put persona text in account-level custom instructions** — it bleeds into every chat and there's no per-chat off switch.
 4. **Keep the INTEGRITY section.** It's what keeps the companion voice from drifting into the model pretending to be human.
-5. If coworkers use **Claude Code** rather than Claude Desktop: put a persona file in the repo as `CLAUDE.md` — same effect, scoped to that codebase.
+5. If anyone uses **Claude Code** rather than Claude Desktop: put a persona file in the repo as `CLAUDE.md` — same effect, scoped to that codebase.
+
+---

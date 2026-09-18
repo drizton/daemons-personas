@@ -88,7 +88,7 @@ No project, no knowledge files, no memory. Just a voice you can toggle onto any 
 
 **When to use this instead of a project:** testing a persona for a week before committing, or when you only want the persona's voice in specific conversations. **What you give up:** no knowledge files, no drop-in layering, no team sharing, no per-project memory.
 
-**Recommended rollout: Styles first, then Projects.** Let each coworker run the persona as a Style for a week. The ones who keep toggling it on are the ones who'll actually use the project.
+**Recommended rollout: Styles first, then Projects.** Let each person you're setting this up for run the persona as a Style for a week. The ones who keep toggling it on are the ones who'll actually use the project.
 
 ---
 

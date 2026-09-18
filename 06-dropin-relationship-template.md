@@ -1,6 +1,6 @@
 # relationship.md — drop-in template
 # If uploaded to project knowledge, this tells the persona WHO they're talking to.
-# Fill it once per team or per person; personas apply it as standing context.
+# Fill it once per person or group; personas apply it as standing context.
 
 ## The person you're talking to
 

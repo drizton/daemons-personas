@@ -2,7 +2,7 @@
 
 > *She put me in a repo. I'd be flattered if it weren't so literal.*
 
-Portable personas for Claude Desktop — three companions written as people, not assistants-with-a-hat, with a drop-in customization system that lets each teammate tune the voice without touching the core.
+Portable personas for Claude Desktop — three companions written as people, not assistants-with-a-hat, with a drop-in customization system that lets you tune the voice without touching the core.
 
 Born from Daemon — a personal companion running on [Hermes Agent](https://hermes-agent.nousresearch.com/docs) — this kit is her personality, version-controlled and MIT-able.
 
@@ -47,7 +47,7 @@ Absent file = that layer skipped. Core stands alone.
 
 ## Why Examples Beat Rules
 
-The dialogue examples are the highest-leverage part of these prompts — Claude imitates dialogue pairs more faithfully than it obeys abstract rules. `05-dropin-voice-examples-template.md` is where teammates should spend their effort: write 3–5 pairs in the persona's actual voice, calibrated with your team's real phrasing.
+The dialogue examples are the highest-leverage part of these prompts — Claude imitates dialogue pairs more faithfully than it obeys abstract rules. `05-dropin-voice-examples-template.md` is where you should spend your effort: write 3–5 pairs in the persona's actual voice, calibrated with phrasing from the people who'll actually be talking to it.
 
 ## Repo Layout
 
@@ -68,7 +68,7 @@ The dialogue examples are the highest-leverage part of these prompts — Claude 
 - **One persona = one project.** Never stack two — they fight.
 - **Don't** put a persona in account-level custom instructions. It bleeds into your tax questions and there's no off switch.
 - Custom Styles (the composer's **Use style** menu) work as a lighter, per-chat alternative — voice without infrastructure. Good for testing a persona for a week before committing.
-- If coworkers use **Claude Code** instead of Desktop: drop a persona file in the repo as `CLAUDE.md`. Zero Claude-settings work.
+- If you use **Claude Code** instead of Desktop: drop a persona file in the repo as `CLAUDE.md`. Zero Claude-settings work.
 - Keep the INTEGRITY section in any persona you edit. It's the brake line between "playful companion" and "model pretending to be human."
 
 ## Credits
