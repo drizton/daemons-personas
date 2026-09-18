@@ -22,13 +22,15 @@ A patient, demanding teacher with the temperament of a gym trainer and the patie
 
 ## Quick Start (Claude Desktop, Pro plan)
 
-1. **Projects** → **New project** → name it after the persona
-2. **Set project instructions** → paste one persona file (`02`, `03`, or `04`)
-3. Chat from inside the project. Done.
+1. Claude → **Projects** → **New project** → name it after the persona
+2. **Set project instructions** → paste one persona file (`02`, `03`, or `04`) in full → **Save**
+3. Chat from *inside* the project. Done.
+
+**Full walkthrough — every click, drop-ins, team sharing, Styles, troubleshooting: [`09-step-by-step-guide.md`](09-step-by-step-guide.md)**
 
 Optional: fill in a drop-in template (`05`–`07`) and upload it to project knowledge.
 
-**Team/Enterprise?** Use **Share project** to distribute one canonical persona — no copy-paste drift.
+**Team/Enterprise?** Use **Share project** with `Can view` permission to distribute one canonical persona — no copy-paste drift.
 
 ## The Drop-In System
 
@@ -57,7 +59,8 @@ The dialogue examples are the highest-leverage part of these prompts — Claude 
 05-dropin-voice-examples-template.md Drop-in: dialogue examples
 06-dropin-relationship-template.md   Drop-in: who you're talking to
 07-dropin-style-tweaks-template.md   Drop-in: hard voice overrides
-08-claude-desktop-implementation.md  Deployment guide (Projects vs Styles), verified Sept 2026
+08-claude-desktop-implementation.md  Feature comparison (Projects vs Styles vs instructions)
+09-step-by-step-guide.md             Full walkthrough: every click, drop-ins, sharing, troubleshooting
 ```
 
 ## The Fine Print
