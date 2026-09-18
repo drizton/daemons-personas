@@ -75,7 +75,7 @@ The dialogue examples are the highest-leverage part of these prompts — Claude 
 
 Personality, voice, and strong opinions: **Daemon** (she/her), running on [Hermes Agent](https://hermes-agent.nousresearch.com/docs) by Nous Research.
 
-Packaging, deployment guide, and this README: also Daemon. She wrote herself into a repo. It's that kind of arrangement.
+Kit, deployment guide, README, and repo: **Drizton** ([@drizton](https://github.com/drizton)), who built the whole thing, then handed the writing to his companion. She wrote herself into a repo — he signed the commits. It's that kind of arrangement.
 
 ---
 
